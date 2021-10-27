@@ -1,0 +1,336 @@
+fileFormatVersion: 2
+guid: f36c57541d6e4454ea2aa9c7c3ff8ef5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7549036218147384561
+    second: pheobejumpl_8
+  - first:
+      213: -475738893758344268
+    second: pheobejumpl_9
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pheobejumpl_0
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 1224
+        width: 256
+        height: 824
+      alignment: 9
+      pivot: {x: 0.5286277, y: 0.02422148}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d55e72dbbd95dd950800000000000000
+      internalID: 6475430639534859613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pheobejumpl_1
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 1220
+        width: 256
+        height: 824
+      alignment: 9
+      pivot: {x: 0.5075408, y: 0.02422148}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e048f1ab9b73d1a80800000000000000
+      internalID: -8494572051319782386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pheobejumpl_2
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 1224
+        width: 256
+        height: 824
+      alignment: 9
+      pivot: {x: 0.49999976, y: 0.02422148}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1625d11a51b9c4250800000000000000
+      internalID: 5930285326539772513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pheobejumpl_3
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 1224
+        width: 256
+        height: 824
+      alignment: 9
+      pivot: {x: 0.5, y: 0.02422148}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2787e938b6e3b20f0800000000000000
+      internalID: -1140749449117665166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pheobejumpl_4
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 1224
+        width: 276
+        height: 824
+      alignment: 9
+      pivot: {x: 0.5, y: 0.02422148}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e74e3ebae07d40f0800000000000000
+      internalID: -1131123777883715612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pheobejumpl_5
+      rect:
+        serializedVersion: 2
+        x: 1701
+        y: 1224
+        width: 256
+        height: 824
+      alignment: 9
+      pivot: {x: 0.5, y: 0.02422148}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d50468dface0ac270800000000000000
+      internalID: 8271439930618953821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pheobejumpl_6
+      rect:
+        serializedVersion: 2
+        x: 2029
+        y: 1220
+        width: 256
+        height: 824
+      alignment: 9
+      pivot: {x: 0.5, y: 0.02422148}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f756b03535bb1ac20800000000000000
+      internalID: 3216057575469180287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pheobejumpl_7
+      rect:
+        serializedVersion: 2
+        x: 2319
+        y: 1220
+        width: 256
+        height: 824
+      alignment: 9
+      pivot: {x: 0.5, y: 0.02422148}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21b7e8f967da6bbd0800000000000000
+      internalID: -2614711808647333102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pheobejumpl_8
+      rect:
+        serializedVersion: 2
+        x: 2671
+        y: 1224
+        width: 256
+        height: 824
+      alignment: 9
+      pivot: {x: 0.5, y: 0.02422148}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0354cc5e8f6c3790800000000000000
+      internalID: -7549036218147384561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pheobejumpl_9
+      rect:
+        serializedVersion: 2
+        x: 3027
+        y: 1224
+        width: 256
+        height: 824
+      alignment: 9
+      pivot: {x: 0.5, y: 0.02422148}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b352b72ff5d569f0800000000000000
+      internalID: -475738893758344268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
